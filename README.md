@@ -92,7 +92,7 @@ if __name__ == '__main__':
 2. **Run the Script**: Use Python to execute the script in your terminal or command prompt:
 
    ```bash
-   python puzzle66.py
+   python3 puzzle66.py
    ```
 
 3. **Monitor Progress**: The script will output the progress of each process, showing how many keys have been checked and the percentage complete. If a private key is found, it will be displayed.
